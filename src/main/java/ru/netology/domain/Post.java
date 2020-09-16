@@ -1,7 +1,7 @@
 package ru.netology.domain;
 
 public class Post {
-    private Like like;
+    private LikesInfo likesInfo;
     private Repost repost;
     private Comment comment;
     private int Id;
